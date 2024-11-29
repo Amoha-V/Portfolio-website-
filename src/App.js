@@ -86,16 +86,16 @@ const PortfolioWebsite = () => {
   ];
 
   const skillsData = {
-    programmingLanguages: ["Python", "C", "MySQL", "JavaScript"],
-    aiML: [
+    ProgrammingLanguages: ["Python", "C", "MySQL", "JavaScript"],
+    AIML: [
       "Machine Learning",
       "Deep Learning",
       "Neural Networks",
       "Computer Vision",
       "Ensemble Models",
     ],
-    platforms: ["VS Code", "Jupyter", "Git", "Neptune.ai"],
-    webDevelopment: [
+    Platforms: ["VS Code", "Jupyter", "Git", "Neptune.ai"],
+    WebDevelopment: [
       "HTML",
       "CSS",
       "JavaScript",
@@ -106,8 +106,8 @@ const PortfolioWebsite = () => {
       "TailwindCSS",
       "Bootstrap",
     ],
-    dataVisualization: ["Matplotlib", "Dash", "Streamlit", "Google Looker Studio"],
-    deepLearning: [
+    DataVisualization: ["Matplotlib", "Dash", "Streamlit", "Google Looker Studio"],
+    DeepLearning: [
       "CNN",
       "Stable Diffusion",
       "Large Language Models",
@@ -118,7 +118,7 @@ const PortfolioWebsite = () => {
   const certifications = [
     "Hackfest 3rd Edition, PSG iTech and SAP",
     "Top performer in Machine Learning Trainings (Internshala)",
-    "Top 1% in Cyber Security (NPTEL 12-week course)",
+    "Top 1% in Cyber Security and privacy(NPTEL 12-week course)",
     "Machine Learning Operations (Google Cloud Skills Boost)",
     "Neural Networks and Deep Learning (Deeplearning.ai)",
     "GUVI – SWAI.AI Learnathon- RAG Model",
@@ -132,8 +132,17 @@ const PortfolioWebsite = () => {
           <div className="bg-white p-8 rounded-lg shadow-lg">
             <h2 className="text-3xl font-semibold mb-4">About Me</h2>
             <p className="text-lg text-gray-700">
-              I'm a Computer Science student specializing in IoT at Shiv Nadar University, Chennai (CGPA: 9.35).
+              
               Passionate about leveraging AI and web technologies to create impactful solutions.
+              Sure, here's a shortened version of the description:
+
+I am a promising computer science student at Shiv Nadar University, specializing in IoT . With a strong academic record (CGPA 9.35), I have gained valuable industry experience through internship at Valeo India.
+
+My technical skills span programming languages, AI/ML, deep learning, and web development. I'm proficient in Python, C, MySQL, React, Node.js, and more.
+
+Beyond academics, I'm actively involved in the university community as a student ambassador and core committee member of the Robotics Club. I also enjoy a range of hobbies, including fashion sketching, painting, reading, and badminton.
+
+Overall, I'm a driven and versatile computer science student, eager to explore future opportunities in the tech industry.
             </p>
             <p className="mt-4 text-md text-gray-600">Languages: Tamil, English, German (A1), Hindi (Basic).</p>
           </div>

@@ -1,4 +1,3 @@
-Certainly! Here's a sample README file for the React-based personal portfolio website:
 
 # Amoha V's Personal Portfolio
 

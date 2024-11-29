@@ -53,13 +53,6 @@ This will start the development server and open the portfolio website in your de
 ## Deployment
 The portfolio website is deployed on Netlify. The live version is available at: [https://amohavportfolio.netlify.app/](https://amohavportfolio.netlify.app/)
 
-### Deployment Steps
-1. Create a Netlify account (if you haven't already).
-2. Connect your GitHub repository to Netlify.
-3. Configure the build settings:
-   - Build Command: `npm run build`
-   - Publish Directory: `build` or `dist`
-
 ## Customization
 To customize the portfolio website, you can:
 * Update the content (text, images, etc.) in the respective components.
